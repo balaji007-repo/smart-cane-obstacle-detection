@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Cane</string>
+    <string name="starting_camera">Starting rear camera and detector…</string>
+    <string name="camera_permission">Enable camera access in Android Settings, then return to Smart Cane.</string>
+    <string name="camera_error">Unable to start the rear camera.</string>
+    <string name="detector_error">Unable to run the on-device object detector.</string>
+    <string name="voice_unavailable">Download an English offline voice in Android text-to-speech settings, then reopen Smart Cane.</string>
+    <string name="far_left">Far left</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="far_right">Far right</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="orientation_auto">Auto</string>
+    <string name="orientation_landscape">Landscape</string>
+    <string name="orientation_portrait">Portrait</string>
+    <string name="orientation_mode">Orientation: %1$s</string>
+    <string name="obstacle_alert">Obstacle, %1$s</string>
+</resources>
